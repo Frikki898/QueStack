@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1486572468 source:d:\forritun\v3_queuestack\questack\queuestack\main.cpp
+	<iostream>
+	"stack.h"
+	"queue.h"
+
+1486571655 d:\forritun\v3_queuestack\questack\queuestack\stack.h
+	"NodeList.h"
+
+1486572959 d:\forritun\v3_queuestack\questack\queuestack\nodelist.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1486572410 d:\forritun\v3_queuestack\questack\queuestack\node.h
+
+1486573919 d:\forritun\v3_queuestack\questack\queuestack\queue.h
+	"NodeList.h"
+
+1486572410 source:d:\forritun\v3_queuestack\questack\queuestack\node.cpp
+	"Node.h"
+
+1486573784 source:d:\forritun\v3_queuestack\questack\queuestack\nodelist.cpp
+	"NodeList.h"
+
+1486564521 source:d:\forritun\v3_queuestack\questack\queuestack\queue.cpp
+	"queue.h"
+
+1486571672 source:d:\forritun\v3_queuestack\questack\queuestack\stack.cpp
+	"stack.h"
+
